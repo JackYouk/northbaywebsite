@@ -14,10 +14,13 @@ const CallToActionOne = () => {
                                 alignment="center"
                             />
                             <div className="text-center">
-                                <a className="axil-button btn-large btn-transparent" href="/contact">
-                                    <span className="button-text">Ask us here</span>
-                                    <span className="button-icon"/>
-                                </a>
+                                <Link href="/">
+                                    <a className="axil-button btn-large btn-transparent" >
+                                        <span className="button-text">Ask us here</span>
+                                        <span className="button-icon"/>
+                                    </a>
+                                </Link>
+                                
                                 <div className="callto-action">
                                     <span className="text">
                                       Or call us now
