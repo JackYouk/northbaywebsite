@@ -1,4 +1,5 @@
 import SectionTitle from '../common/SectionTitle';
+import Link from 'next/link';
 
 const CallToActionOne = () => {
     return (
@@ -14,7 +15,7 @@ const CallToActionOne = () => {
                                 alignment="center"
                             />
                             <div className="text-center">
-                                <Link href="/">
+                                <Link href="/contact">
                                     <a className="axil-button btn-large btn-transparent" >
                                         <span className="button-text">Ask us here</span>
                                         <span className="button-icon"/>
