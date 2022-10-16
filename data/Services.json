@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/itamlogo.png",
+      "width": "50",
+      "height": "50"
+    },
+    "iconColorClass": "",
+    "title": "Asset Managment",
+    "description": "Logistics, Management, and reimaging of IT and remote employee assets.",
+    "category": "Default",
+    "slug": "design",
+    "process": {
+      "title": "Our Process",
+      "description": "our process desc",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Assetization and Managment",
+          "subtitle": "",
+          "description": "Every asset we receive is assetized and entered into our database.",
+          "highlightColor": "extra04-color",
+          "image": "/images/itamlogo.png"
+        },
+        {
+          "id": 2,
+          "title": "Reimaging and Refurbishment",
+          "subtitle": "",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Shipping and Logistics",
+          "subtitle": "",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/datadestroylogo.png",
+      "width": "50",
+      "height": "50"
+    },
+    "iconColorClass": "gradient-color-02",
+    "title": "Data Disposal",
+    "description": "Secure data disposal with backups by request",
+    "category": "Default",
+    "slug": "development",
+    "process": {
+      "title": "Our development process",
+      "description": "Our comprehensive development strategy ensures a perfectly crafted application for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/ewastelogo.png",
+      "width": "50",
+      "height": "50"
+    },
+    "iconColorClass": "gradient-color-03",
+    "title": "eWaste Recycling",
+    "description": "eWaste disposal and recycling. We'll take it off your hands.",
+    "category": "Default",
+    "slug": "online-marketing",
+    "process": {
+      "title": "Our online marketing process",
+      "description": "Our comprehensive online marketing strategy ensures enough trafic for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/smarthandslogo.png",
+      "width": "50",
+      "height": "50"
+    },
+    "iconColorClass": "gradient-color-04",
+    "title": "Smart Hands",
+    "description": "IT/Office installation, transportation, and decommission.",
+    "category": "Default",
+    "slug": "business",
+    "process": {
+      "title": "Our business process",
+      "description": "Our comprehensive business strategy ensures quality and perfection for our clients.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/logisticslogo.png",
+      "width": "50",
+      "height": "50"
+    },
+    "iconColorClass": "gradient-color-06",
+    "title": "Logistics",
+    "description": "Logistics desc",
+    "category": "Default",
+    "slug": "technology",
+    "process": {
+      "title": "Our technical process",
+      "description": "Our comprehensive technical strategy ensures a perfectly maintained system for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "imageLayer": "/images/icons/layer.svg",
+    "imageIcon": {
+      "src": "/images/storelogo.png",
+      "width": "50",
+      "height": "50"
+    },
+    "iconColorClass": "gradient-color-05",
+    "title": "Refurbished Goods",
+    "description": "Server hardware, computers, medical equipment, and more.",
+    "category": "Default",
+    "slug": "content-strategy",
+    "process": {
+      "title": "Our content strategy process",
+      "description": "Our comprehensive content strategy ensures top class content for your business.",
+      "strategies": [
+        {
+          "id": 1,
+          "title": "Discover",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra04-color",
+          "image": "/images/process/process-01.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Prototype",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra05-color",
+          "image": "/images/process/process-02.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Test",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra06-color",
+          "image": "/images/process/process-03.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Build",
+          "subtitle": "our four step process",
+          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "highlightColor": "extra07-color",
+          "image": "/images/process/process-04.jpg"
+        }
+      ]
+    }
+  }
+]

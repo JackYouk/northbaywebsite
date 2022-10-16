@@ -1,0 +1,26 @@
+{
+  "social": [
+    {"type":  "facebook", "icon": "fa-facebook-f", "url":  "https://www.facebook.com/"},
+    {"type":  "twitter", "icon": "fa-twitter", "url":  "https://twitter.com/"},
+    {"type":  "linkedin", "icon": "fa-linkedin-in", "url":  "https://www.linkedin.com/"},
+    {"type":  "instagram", "icon": "fa-instagram", "url":  "https://www.instagram.com/"}
+  ],
+  "services": [
+      {"title": "Asset Management", "url": "/services" },
+      {"title": "Data Disposal", "url": "/services" },
+      {"title": "eWaste Recycle", "url": "/services" },
+      {"title": "Smart Hands", "url": "/services" },
+      {"title": "Logistics", "url": "/services" },
+      {"title": "Refurbished Tech", "url": "/services" }
+  ],
+  "resources": [
+      {"title": "Services Sales", "url": "/services" },
+      {"title": "Server Hardware", "url": "/service-two" },
+      {"title": "IT and Office Goods", "url": "/service-two" },
+      {"title": "Medical Equipment", "url": "/service-two" },
+      {"title": "Dental Equipment", "url": "/service-two" }
+  ],
+  "support": [
+    {"title":  "Contact", "url":  "/contact"}
+  ]
+}
