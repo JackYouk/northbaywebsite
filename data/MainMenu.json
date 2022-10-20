@@ -2,29 +2,22 @@
   {
     "id": 1,
     "title": "Services",
-    "url": "#",
+    "url": "/services",
     "hasChildren": true,
     "clildrens": [
-      { "id": 1, "title": "Asset Management", "url": "/services#section1" },
-      { "id": 2, "title": "Data Disposal", "url": "/services#section2" },
-      { "id": 3, "title": "eWaste Recycle", "url": "/services#section3" },
-      { "id": 4, "title": "Smart Hands", "url": "/service#section4" },
-      { "id": 5, "title": "Logistics", "url": "/service#section5" },
-      { "id": 6, "title": "Refurbished Tech", "url": "/service#section6" }
+      { "id": 1, "title": "Asset Management", "url": "/services/itam" },
+      { "id": 2, "title": "Data Disposal", "url": "/services/data-disposal" },
+      { "id": 3, "title": "eWaste Recycle", "url": "/services/ewaste" },
+      { "id": 4, "title": "Smart Hands", "url": "/service/smarthands" },
+      { "id": 5, "title": "Logistics", "url": "/service/logistics" },
+      { "id": 6, "title": "Refurbished Tech", "url": "/service/refurbs" }
     ]
   },
   {
     "id": 2,
     "title": "Sales",
     "url": "/sales",
-    "hasChildren": true,
-    "clildrens": [
-      { "id": 1, "title": "Services Sales", "url": "/services" },
-      { "id": 2, "title": "Server Hardware", "url": "/service-two" },
-      { "id": 3, "title": "IT and Office Goods", "url": "/service-two" },
-      { "id": 4, "title": "Medical Equipment", "url": "/service-two" },
-      { "id": 5, "title": "Dental Equipment", "url": "/service-two" }
-    ]
+    "hasChildren": false
   },
   {
     "id": 3,

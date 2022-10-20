@@ -9,7 +9,7 @@ const CallToActionOne = () => {
                     <div className="col-lg-12">
                         <div className="axil-call-to-action">
                             <SectionTitle
-                                title="Questions"
+                                title="Questions?"
                                 subtitle=""
                                 color="extra04-color"
                                 alignment="center"

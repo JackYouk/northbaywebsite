@@ -11,7 +11,7 @@
     "title": "Asset Managment",
     "description": "Logistics, Management, and reimaging of IT and remote employee assets.",
     "category": "Default",
-    "slug": "design",
+    "slug": "itam",
     "process": {
       "title": "Our Process",
       "description": "our process desc",
@@ -55,7 +55,7 @@
     "title": "Data Disposal",
     "description": "Secure data disposal with backups by request",
     "category": "Default",
-    "slug": "development",
+    "slug": "data-disposal",
     "process": {
       "title": "Our development process",
       "description": "Our comprehensive development strategy ensures a perfectly crafted application for your business.",
@@ -107,7 +107,7 @@
     "title": "eWaste Recycling",
     "description": "eWaste disposal and recycling. We'll take it off your hands.",
     "category": "Default",
-    "slug": "online-marketing",
+    "slug": "ewaste",
     "process": {
       "title": "Our online marketing process",
       "description": "Our comprehensive online marketing strategy ensures enough trafic for your business.",
@@ -159,7 +159,7 @@
     "title": "Smart Hands",
     "description": "IT/Office installation, transportation, and decommission.",
     "category": "Default",
-    "slug": "business",
+    "slug": "smarthands",
     "process": {
       "title": "Our business process",
       "description": "Our comprehensive business strategy ensures quality and perfection for our clients.",
@@ -211,7 +211,7 @@
     "title": "Logistics",
     "description": "Logistics desc",
     "category": "Default",
-    "slug": "technology",
+    "slug": "logistics",
     "process": {
       "title": "Our technical process",
       "description": "Our comprehensive technical strategy ensures a perfectly maintained system for your business.",
@@ -263,7 +263,7 @@
     "title": "Refurbished Goods",
     "description": "Server hardware, computers, medical equipment, and more.",
     "category": "Default",
-    "slug": "content-strategy",
+    "slug": "refurbs",
     "process": {
       "title": "Our content strategy process",
       "description": "Our comprehensive content strategy ensures top class content for your business.",
