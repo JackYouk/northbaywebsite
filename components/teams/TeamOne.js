@@ -11,9 +11,9 @@ const TeamOne = () => {
                         <div className="thumbnail">
                             <div className="image">
                                 <Image
-                                    width={630}
-                                    height={514}
-                                    src="/images/team/team-group.png"
+                                    width={708.6}
+                                    height={472.7}
+                                    src="/images/EndpointPics/tshirtlogo.jpg"
                                     alt="Team Images"
                                 />
                             </div>

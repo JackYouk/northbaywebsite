@@ -38,7 +38,7 @@ const WorkingProcess = ({process}) => {
                                 >
                                     <div className="image paralax-image">
                                         <Tilt tiltMaxAngleX={9} tiltMaxAngleY={9}>
-                                            <Image width={410} height={414} src={strategy.image} alt="Process Images"/>
+                                            <Image width={472.4} height={315.1} src={strategy.image} alt="Process Images"/>
                                         </Tilt>
                                     </div>
                                 </div>

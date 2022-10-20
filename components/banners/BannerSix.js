@@ -4,16 +4,16 @@ import Image from "next/image";
 const BannerSix = (
     {
         title = 'Services',
-        subtitle = '6 Solutions to your IT needs',
+        subtitle = "IT solutions tailored to your company's needs",
         bannerStyleClass = 'axil-breadcrumb-area breadcrumb-style-2 pt--170 pb--70 theme-gradient',
         bannerTitleClass = 'page-title mb--20',
         leftColumn = 'col-lg-5 order-2 order-lg-1 mt_md--30 mt_sm--30',
         rightColumn = 'col-lg-7 order-1 order-lg-2',
-        bannerImageOne = '/images/others/keystoke-image-1.png',
-        bannerImageTwo = '/images/others/keystoke-image-2.svg',
+        bannerImageOne = '/images/EndpointPics/package.jpg',
+        bannerImageTwo = '',
         shapeImage = '/images/slider/single-service-02.png',
         isServiceDetails = false,
-        showPersonImage = true,
+        showPersonImage = false,
     }
 ) => {
     return (
@@ -34,25 +34,15 @@ const BannerSix = (
                                 <div className="thumbnail">
                                     <Tilt tiltMaxAngleX={9} tiltMaxAngleY={9}>
                                         <Image
-                                            width={370}
-                                            height={466}
+                                            width={472.4}
+                                            height={315.1}
                                             className="paralax-image"
                                             src={bannerImageOne}
                                             alt="Keystoke Images"
                                         />
                                     </Tilt>
                                 </div>
-                                <div className="image-group">
-                                    <Tilt tiltMaxAngleX={9} tiltMaxAngleY={9}>
-                                        <Image
-                                            width={267}
-                                            height={363}
-                                            className="paralax-image"
-                                            src={bannerImageTwo}
-                                            alt="Keystoke Images"
-                                        />
-                                    </Tilt>
-                                </div>
+                                
                                 <div className="shape-group">
                                     <div className="shape shape-1">
                                         <i className="icon icon-breadcrumb-1"/>

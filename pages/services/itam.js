@@ -26,7 +26,7 @@ const Itam = () => {
             "subtitle": "",
             "description": "Every asset we receive is assetized and entered into our database.",
             "highlightColor": "",
-            "image": "/images/itamlogo.png"
+            "image": "/images/EndpointPics/receiving.jpg"
           },
           {
             "id": 2,
@@ -34,7 +34,7 @@ const Itam = () => {
             "subtitle": "",
             "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
             "highlightColor": "",
-            "image": "/images/process/process-02.jpg"
+            "image": "/images/EndpointPics/reimaging.jpg"
           },
           {
             "id": 3,
@@ -42,7 +42,15 @@ const Itam = () => {
             "subtitle": "",
             "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
             "highlightColor": "",
-            "image": "/images/process/process-03.jpg"
+            "image": "/images/EndpointPics/unloadingfedex.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Operation Consulting, Logistics, and Customer Service",
+            "subtitle": "",
+            "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+            "highlightColor": "",
+            "image": "/images/EndpointPics/christyping.jpg"
           }
         ]
       };
@@ -62,7 +70,7 @@ const Itam = () => {
                             <div className="row">
                                 <div className="col-lg-12">
                                     <SectionTitle
-                                        title="Asset Managment"
+                                        title="I.T.A.M. done the right way"
 
                                         description=""
                                         color="extra08-color"
