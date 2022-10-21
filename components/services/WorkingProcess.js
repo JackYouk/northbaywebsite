@@ -7,7 +7,7 @@ const WorkingProcess = ({process}) => {
         <div className="axil-working-process-area ax-section-gap theme-gradient-4">
             <div className="container">
                 <div className="row">
-                    <div className="col-lg-12">
+                    <div className="col-lg-12 mt-5">
                         <SectionTitle
                             title={process.title}
                             subtitle=""
