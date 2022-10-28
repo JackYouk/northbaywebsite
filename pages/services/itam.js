@@ -17,14 +17,14 @@ const Itam = () => {
     }, []);
 
     const process = {
-        "title": "Asset Managment",
+        "title": "Asset Management",
         "description": "Management of remote employee assets, onboarding, offboarding, and more",
         "strategies": [
           {
             "id": 1,
-            "title": "Assetization and Managment",
+            "title": "Assetization and Management",
             "subtitle": "",
-            "description": "Every asset we receive is assetized and entered into our database.",
+            "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
             "highlightColor": "",
             "image": "/images/EndpointPics/receiving.jpg"
           },
@@ -46,7 +46,7 @@ const Itam = () => {
           },
           {
             "id": 4,
-            "title": "Operation Consulting, Logistics, and Customer Service",
+            "title": "Consulting and Customer Service",
             "subtitle": "",
             "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
             "highlightColor": "",
@@ -65,7 +65,7 @@ const Itam = () => {
                 
             <WorkingProcess process={process}/>
 
-            <div className="axil-service-area ax-section-gap bg-color-white"  onS >
+            {/* <div className="axil-service-area ax-section-gap bg-color-white"  onS >
                         <div className="container">
                             <div className="row">
                                 <div className="col-lg-12">
@@ -103,7 +103,7 @@ const Itam = () => {
 
                     {isWindow && (
                         <VideoPlayer url="https://www.youtube.com/watch?v=Pj_geat9hvI" />
-                    )}
+                    )} */}
 
                     
 
