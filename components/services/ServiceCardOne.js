@@ -2,7 +2,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import {useEffect, useState} from 'react';
 import Tilt from 'react-parallax-tilt';
-import {camelCaseToDashed} from '../../helpers/utilities';
 
 const ServiceCardOne = (
     {
