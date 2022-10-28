@@ -97,11 +97,7 @@ const Ewaste = () => {
                         <VideoPlayer url="https://www.youtube.com/watch?v=Pj_geat9hvI" />
                     )}
 
-                    
-
-                    <CallToActionOne />
-                    <CallToActionOne />
-                    
+                    <CallToActionOne />                    
             </main>
         </Layout>
     );
