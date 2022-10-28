@@ -100,6 +100,7 @@ const Ewaste = () => {
                     
 
                     <CallToActionOne />
+                    <CallToActionOne />
                     
             </main>
         </Layout>
