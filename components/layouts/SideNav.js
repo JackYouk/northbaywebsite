@@ -33,7 +33,7 @@ const SideNav = ({toggleSidenav}) => {
                                     <address className="address">
                                         <span className="title">Address</span>
                                         <p>
-                                            4080 Watts Street Emeryville, California
+                                            4062 Watts Street Emeryville, California
                                         </p>
                                     </address>
                                     <address className="address">
@@ -60,17 +60,12 @@ const SideNav = ({toggleSidenav}) => {
                                     <div className="contact-social-share d-flex align-items-center">
                                         <ul className="social-share style-rounded">
                                             <li>
-                                                <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
+                                                <a href="https://www.facebook.com/people/Northbay-Networks/100066842272084/" target="_blank" rel="noreferrer">
                                                     <i className="fab fa-facebook-f"/>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="https://twitter.com/" target="_blank" rel="noreferrer">
-                                                    <i className="fab fa-twitter"/>
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+                                                <a href="https://www.linkedin.com/company/northbay-networks-inc/mycompany/" target="_blank" rel="noreferrer">
                                                     <i className="fab fa-linkedin-in"/>
                                                 </a>
                                             </li>

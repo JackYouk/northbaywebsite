@@ -107,7 +107,8 @@ const Header = ({ headerSetting = {} }) => {
                                             width={175}
                                             height={49}
                                             src="/images/northbayLogo.png"
-                                            alt="Keystoke Images"
+                                            alt="Northbay Logo"
+                                            variant={headerSettings.style === 'four' ? 'two' : 'one'}
                                         />
                                         </a>
                                     </Link>
@@ -135,16 +136,6 @@ const Header = ({ headerSetting = {} }) => {
                                         )}
 
                                     <div className="axil-header-extra d-flex align-items-center">
-                                        {/* {(headerSettings.style !== "three" && headerSettings.style !== "four") && (
-                                            <div className="ax-search-area ml--40 ml_sm--10">
-                                                <button
-                                                    className="p-0 border-0 search-trigger"
-                                                    onClick={toggleSearch}
-                                                >
-                                                    <i className="fas fa-search"></i>
-                                                </button>
-                                            </div>
-                                        )} */}
 
                                         {(headerSettings.style !== "three" && headerSettings.style !== "four") && (
                                             <div className="ax-hamburger ml--40 ml_sm--10 d-none d-lg-block">

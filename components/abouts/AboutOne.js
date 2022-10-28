@@ -30,16 +30,6 @@ const AboutOne = () => {
                   recycling for re-use, data management solutions including destruction 
                   and wiping, and state approved e-waste disposal.
                 </p>
-                <p
-                  className="subtitle-2"
-                  data-aos="aos-fade-in-up"
-                  data-aos-duration="1000"
-                  data-aos-delay="500"
-                >
-                  Nulla pharetra hendrerit mi quis dapibus. Quisque luctus,
-                  tortor a venenatis fermentum, est lacus feugiat nisl, id
-                  pharetra odio enim eget libero.
-                </p>
               </div>
             </div>
           </div>

@@ -68,9 +68,9 @@ const Contact = () => {
                                                 <p>
                                                     <a
                                                         className="axil-link"
-                                                        href="mailto:info@northbay-networks.com"
+                                                        href="mailto:support@northbay-networks.com"
                                                     >
-                                                        info@northbay-networks.com
+                                                        support@northbay-networks.com
                                                     </a>
                                                 </p>
                                             </div>
@@ -117,16 +117,16 @@ const Contact = () => {
                                         <Image
                                             width={300}
                                             height={180}
-                                            src="/images/inner-image/contact/contact-01.jpg"
+                                            src="/images/northbayoutside.jpeg"
                                             alt="Location Images"
                                         />
                                     </div>
                                     <div className="content">
                                         <h4 className="title">Emeryville CA</h4>
                                         <p>
-                                            4080 Watts St. , <br/> United States
+                                            4062 Watts St., <br/> United States
                                         </p>
-                                        <a className="axil-button btn-transparent" href="#">
+                                        <a className="axil-button btn-transparent" href="https://www.google.com/maps/place/4062+Watts+St,+Emeryville,+CA+94608/@37.8311741,-122.2841478,17z/data=!3m1!4b1!4m6!3m5!1s0x80857f3b584173e7:0x174f7ccd6d9584b3!8m2!3d37.8311699!4d-122.2819591!16s%2Fg%2F11mhr8_j8t">
                                             <span className="button-text">View on Map</span>
                                             <span className="button-icon"></span>
                                         </a>

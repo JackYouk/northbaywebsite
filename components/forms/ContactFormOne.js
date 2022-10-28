@@ -13,10 +13,9 @@ const ContactFormOne = () => {
 
     emailjs
       .sendForm(
-        "service_mxdohie",
+        "service_mr9g6dk",
         "template_z5cioqm",
         form.current,
-        "jpLEXw_LKyA6GgI_U"
       )
       .then(
         (result) => {
@@ -45,7 +44,7 @@ const ContactFormOne = () => {
       <Input name="phone" label="Phone" isClear={isMessageSent} />
       <div className="form-group">
         <button className="axil-button btn-large btn-transparent w-100">
-          <span className="button-text">Get Pricing Now</span>
+          <span className="button-text">Send</span>
           <span className="button-icon" />
         </button>
       </div>

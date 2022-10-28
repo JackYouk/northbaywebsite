@@ -13,10 +13,9 @@ const ContactFormTwo = () => {
 
     emailjs
       .sendForm(
-        "service_mxdohie",
+        "service_mr9g6dk",
         "template_z5cioqm",
         form.current,
-        "jpLEXw_LKyA6GgI_U"
       )
       .then(
         (result) => {

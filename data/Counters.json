@@ -6,7 +6,7 @@
       "height": "0",
       "src": "/images/counterup/shape-01.png"
     },
-    "amount": 15,
+    "amount": 20,
     "title": "Years of operation"
   },
   {
@@ -16,7 +16,7 @@
       "height": "0",
       "src": "/images/counterup/shape-01.png"
     },
-    "amount": 15,
-    "title": "Years of operation"
+    "amount": 5000,
+    "title": "IT Assets in Inventory"
   }
 ]

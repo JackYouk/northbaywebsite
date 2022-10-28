@@ -26,7 +26,7 @@ const TeamOne = () => {
                                 <SectionTitle
                                     title="Our Team"
                                     subtitle=""
-                                    description="Experts in our craft // continue desc"
+                                    description=""
                                     color="extra08-color"
                                     alignment="left"
                                 />
@@ -37,7 +37,7 @@ const TeamOne = () => {
                                             <span className="button-icon"></span>
                                         </a>
                                     </Link>
-                                    <a className="axil-button axil-link-button" href="#">
+                                    <a className="axil-button axil-link-button" href="/contact">
                                         Careers
                                     </a>
                                 </div>

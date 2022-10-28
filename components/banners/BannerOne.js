@@ -40,11 +40,12 @@ const BannerOne = () => {
                         </div>
                         <div className="col-lg-5 col-12 order-1 order-lg-2">
                             <Tilt tiltMaxAngleX={10} tiltMaxAngleY={10}>
+                            
                                             <Image
                                                 width={500}
                                                 height={630}
                                                 src="/images/nbnlogo2.png"
-                                                alt="Keystoke Images"
+                                                alt="Northbay Logo"
                                             />
                             </Tilt>
                         </div>

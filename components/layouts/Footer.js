@@ -104,34 +104,17 @@ const Footer = ({footerSetting = {}}) => {
                                                         width={400}
                                                         height={400}
                                                         src="/images/nbnlogo2.png"
-                                                        alt="Keystoke Images"
+                                                        alt="Northbay Logo"
                                                     />
                                                 </>
                                             ) : (
                                                 <>
-                                                    <div className="logo">
-                                                        <Link href="/home-01">
-                                                            <a>
-                                                                <Logo variant="two" fillTextColor="#fff"/>
-                                                            </a>
-                                                        </Link>
-                                                    </div>
-                                                    <div className="axil-ft-address">
-                                                        <div className="address">
-                                                            <p>
-                                                                <span>A.</span>3078 Simpson Square&sbquo; Clinton&sbquo;
-                                                                Oklahoma&sbquo; <br/> 73601&sbquo; Londan
-                                                            </p>
-                                                            <p>
-                                                                <span>T.</span>
-                                                                <a href="#">+123 4567 8901</a>
-                                                            </p>
-                                                            <p>
-                                                                <span>E.</span>
-                                                                <a href="#">contact@Keystroke.com</a>
-                                                            </p>
-                                                        </div>
-                                                    </div>
+                                                    <Image
+                                                        width={400}
+                                                        height={400}
+                                                        src="/images/nbnlogo2.png"
+                                                        alt="Northbay Logo"
+                                                    />
                                                 </>
                                             )}
                                         </div>
@@ -172,7 +155,7 @@ const Footer = ({footerSetting = {}}) => {
                                         }`}
                                     >
                                         <div className="footer-widget-item">
-                                            <h6 className="title">Resourses</h6>
+                                            <h6 className="title">Sales</h6>
                                             <div className="footer-menu-container">
                                                 <ul
                                                     className={`ft-menu liststyle link-hover ${
@@ -183,37 +166,6 @@ const Footer = ({footerSetting = {}}) => {
                                                 >
                                                     {FooterMenu.resources?.map((menuItem, index) => (
                                                         <li key={`footer-resource-${index}`}>
-                                                            <Link href={menuItem.url}>{menuItem.title}</Link>
-                                                        </li>
-                                                    ))}
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div
-                                        className={`${
-                                            footerSettings.style === "three"
-                                                ? "col-xl-2 col-lg-3 col-md-6 col-sm-6 col-12 mt_md--30 mt_sm--30"
-                                                : "col-xl-1 col-lg-6 col-md-6 col-sm-6 col-12 mt_lg--30 mt_md--30 mt_sm--30"
-                                        }`}
-                                    >
-                                        <div
-                                            className={`footer-widget-item ${
-                                                footerSettings.style !== "three" ? "widget-support" : ""
-                                            }`}
-                                        >
-                                            <h6 className="title">Support</h6>
-                                            <div className="footer-menu-container">
-                                                <ul
-                                                    className={`ft-menu liststyle link-hover ${
-                                                        footerSettings.style === "three"
-                                                            ? "color-var--2"
-                                                            : ""
-                                                    }`}
-                                                >
-                                                    {FooterMenu.support?.map((menuItem, index) => (
-                                                        <li key={`footer-support-${index}`}>
                                                             <Link href={menuItem.url}>{menuItem.title}</Link>
                                                         </li>
                                                     ))}

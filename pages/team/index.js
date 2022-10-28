@@ -8,6 +8,8 @@ import TeamMember from '../../components/teams/TeamMember';
 import TeamData from '../../data/Team.json';
 import {flatDeep} from '../../helpers/utilities';
 import Image from "next/image";
+import Breadcrumb from "../../components/breadcrumb/Breadcrumb";
+
 
 const Team = () => {
     const [isWindow, setIsWindow] = useState(false);
@@ -37,73 +39,11 @@ const Team = () => {
     return (
         <Layout>
             <Head>
-                <title>Team || Keystroke Creative Agency Bootstrap 5 Template</title>
+                <title>Our Team</title>
             </Head>
 
             <main className="page-wrapper">
-                <div className="axil-breadcrumb-area breadcrumb-style-2 team-group-thumb pt--170 pb--70 theme-gradient">
-                    <div className="container">
-                        <div className="row align-items-center">
-                            <div className="col-lg-5 order-2 order-lg-1 mt_md--30 mt_sm--30">
-                                <div className="inner">
-                                    <h2 className="title">Meet talent & experience</h2>
-                                    <p>
-                                        Grow your business online by awesomely designed mobile apps
-                                        that fits all types.
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="col-lg-7 order-1 order-lg-2">
-                                <div className="thumbnail text-start text-lg-end">
-                                    <div className="image-group">
-                                        <Image
-                                            width={370}
-                                            height={466}
-                                            className="image-1"
-                                            src="/images/slider/white-shape.png"
-                                            alt="Slider images"
-                                        />
-                                    </div>
-                                    <div className="shape-group">
-                                        <div className="shape shape-1">
-                                            <Image
-                                                width={190}
-                                                height={285}
-                                                src="/images/slider/human-1.svg"
-                                                alt="Shape Images"
-                                            />
-                                        </div>
-                                        <div className="shape shape-2">
-                                            <Image
-                                                width={193}
-                                                height={319}
-                                                src="/images/slider/human-2.svg"
-                                                alt="Shape Images"
-                                            />
-                                        </div>
-                                        <div className="shape shape-3">
-                                            <Image
-                                                width={226}
-                                                height={373}
-                                                src="/images/slider/human-3.svg"
-                                                alt="Shape Images"
-                                            />
-                                        </div>
-                                        <div className="shape shape-4">
-                                            <Image
-                                                width={274}
-                                                height={383}
-                                                src="/images/slider/human-4.svg"
-                                                alt="Shape Images"
-                                                layout="fixed"
-                                            />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <Breadcrumb title="Our Team" current="Our Team"/>
 
                 <CounterTwo/>
 
@@ -212,20 +152,20 @@ const Team = () => {
                     </div>
                 </div>
 
-                <div className="axil-video-area ax-section-gapTop bg-color-white">
-                    <div className="container">
+                <div className="axil-video-area  bg-color-white">
+                    {/* <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
                                 <SectionTitle
-                                    title="Design startup movement"
-                                    subtitle="experts in field"
-                                    description="In vel varius turpis, non dictum sem. Aenean in efficitur ipsum, in egestas ipsum. Mauris in mi ac tellus."
+                                    title=""
+                                    subtitle=""
+                                    description=""
                                     color="extra08-color"
                                     alignment="center"
                                 />
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="axil-video-wrapper mt--60 mt_sm--30 mt_md--30">
                         <div className="thumbnail position-relative">
                             <Image
@@ -237,7 +177,7 @@ const Team = () => {
                             <div className="video-button position-to-top">
                                 <a
                                     className="play__btn video-btn"
-                                    href="https://www.youtube.com/watch?v=Pj_geat9hvI"
+                                    href="https://www.youtube.com/watch?v=lIkkSAKaDoc"
                                     data-bs-toggle="modal"
                                     data-bs-target="#exampleModal"
                                 >
@@ -249,7 +189,7 @@ const Team = () => {
                 </div>
 
                 {isWindow && (
-                    <VideoPlayer url="https://www.youtube.com/watch?v=Pj_geat9hvI"/>
+                    <VideoPlayer url="https://www.youtube.com/watch?v=lIkkSAKaDoc"/>
                 )}
             </main>
         </Layout>

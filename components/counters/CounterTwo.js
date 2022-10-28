@@ -19,18 +19,13 @@ const CounterTwo = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-5 col-12">
                         <SectionTitle
-                            title="What makes us special?"
-                            subtitle="experts in field"
-                            description="Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero."
+                            title="Experts in the IT industry"
+                            subtitle=""
+                            description=""
                             color="extra08-color"
                             alignment="left"
                         />
-                        <div className="view-all-portfolio-button mt--40">
-                            <a className="axil-button btn-large btn-transparent" href="#">
-                                <span className="button-text">Careers</span>
-                                <span className="button-icon"></span>
-                            </a>
-                        </div>
+                        
                     </div>
 
                     <div className="col-lg-6 offset-xl-1 col-12 mt_md--40 mt_sm--40">

@@ -15,7 +15,7 @@ const HomeOne = ({posts}) => {
     return (
         <Layout>
             <Head>
-                <title>Northbay Networks Website</title>
+                <title>Northbay Networks</title>
             </Head>
 
             <main className="page-wrapper">
@@ -23,9 +23,9 @@ const HomeOne = ({posts}) => {
 
                 <ServiceOne/>
 
-                <BrandOne/>
+                {/* <BrandOne/> */}
 
-                <TestimonialOne/>
+                {/* <TestimonialOne/> */}
 
                 <AboutOne/>
 

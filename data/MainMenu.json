@@ -6,18 +6,22 @@
     "hasChildren": true,
     "clildrens": [
       { "id": 1, "title": "Asset Management", "url": "/services/itam" },
-      { "id": 2, "title": "Data Disposal", "url": "/services/data-disposal" },
-      { "id": 3, "title": "eWaste Recycle", "url": "/services/ewaste" },
-      { "id": 4, "title": "Smart Hands", "url": "/service/smarthands" },
-      { "id": 5, "title": "Logistics", "url": "/service/logistics" },
-      { "id": 6, "title": "Refurbished Tech", "url": "/service/refurbs" }
+      { "id": 2, "title": "Data Disposal", "url": "" },
+      { "id": 3, "title": "eWaste Recycle", "url": "" },
+      { "id": 4, "title": "Smart Hands", "url": "" },
+      { "id": 5, "title": "Logistics", "url": "" }
     ]
   },
   {
     "id": 2,
     "title": "Sales",
     "url": "/sales",
-    "hasChildren": false
+    "hasChildren": true,
+    "clildrens": [
+      { "id": 1, "title": "Server Equipment", "url": "/sales/servers" },
+      { "id": 2, "title": "Refurbished Tech", "url": "/sales/refurbs" },
+      { "id": 2, "title": "Medical and Dental", "url": "/sales/medical-dental" }
+    ]
   },
   {
     "id": 3,

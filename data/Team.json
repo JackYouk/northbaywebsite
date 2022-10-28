@@ -1,109 +1,45 @@
 [
   {
     "id": 1,
-    "name": "Madge Alvarez",
+    "name": "Mike Panico",
     "image": "/images/team/team-01.jpg",
-    "designation": "CEO",
+    "designation": "CEO & Managing Partner",
     "department": ["Management"],
     "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
+      { "type": "linkedin", "url": "https://www.linkedin.com/in/michael-panico-b58677a/" }
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   },
   {
     "id": 2,
-    "name": "Jared Moreno",
+    "name": "Doug Cain",
     "image": "/images/team/team-02.jpg",
-    "designation": "CEO",
-    "department": ["Management", "Designer"],
+    "designation": "Managing Partner",
+    "department": ["Management"],
     "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
+      { "type": "linkedin", "url": "https://www.linkedin.com/in/r-doug-cain-226a509/" }
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   },
   {
     "id": 3,
-    "name": "Margaret McKinney",
+    "name": "Ryan Barto",
     "image": "/images/team/team-03.jpg",
-    "designation": "CEO",
-    "department": ["Management", "App Developer"],
+    "designation": "VP of Operations",
+    "department": ["Management"],
     "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
+      { "type": "linkedin", "url": "https://www.linkedin.com/in/ryan-barto-7aa89645/" }
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   },
   {
     "id": 4,
-    "name": "Effie Frank",
+    "name": "Gary Vasconi",
     "image": "/images/team/team-04.jpg",
-    "designation": "CEO",
-    "department": ["Management", "Frontend"],
+    "designation": "Director of Sales and Client Services",
+    "department": ["Management"],
     "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
-    ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
-  },
-  {
-    "id": 5,
-    "name": "Tyler Hardy",
-    "image": "/images/team/team-05.jpg",
-    "designation": "CEO",
-    "department": ["Management", "Frontend"],
-    "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
-    ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
-  },
-  {
-    "id": 6,
-    "name": "Effie Arnold",
-    "image": "/images/team/team-06.jpg",
-    "designation": "CEO",
-    "department": ["Management", "Designer"],
-    "socials": [
-      { "type": "facebook", "url": "#" },
-      { "type": "twitter", "url": "#" },
-      { "type": "pinterest", "url": "#" },
-      { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" },
-      { "type": "vimeo", "url": "#" },
-      { "type": "dribble", "url": "#" },
-      { "type": "behance", "url": "#" }
+      { "type": "linkedin", "url": "https://www.linkedin.com/in/gary-vasconi-9a01551/" }
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   }
