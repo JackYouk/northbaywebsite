@@ -37,7 +37,7 @@ const TeamOne = () => {
                                             <span className="button-icon"></span>
                                         </a>
                                     </Link>
-                                    <a className="axil-button axil-link-button" href="/contact">
+                                    <a className="axil-button axil-link-button" href="/https://www.linkedin.com/company/northbay-networks-inc/jobs/">
                                         Careers
                                     </a>
                                 </div>

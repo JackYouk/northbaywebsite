@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import {useEffect, useState} from 'react';
-import SectionTitle from '../../components/common/SectionTitle';
 import VideoPlayer from '../../components/common/VideoPlayer';
 import CounterTwo from '../../components/counters/CounterTwo';
 import Layout from '../../components/layouts/Layout';
