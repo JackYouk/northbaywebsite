@@ -26,7 +26,7 @@ const ServiceOne = () => {
     return (
         <div className="axil-service-area ax-section-gap bg-color-white">
             <div className="container">
-                <div className="row">
+                <div className="row d-flex justify-content-center">
                     {defaultServices?.map((service, index) => (
                         <ServiceCardOne
                             key={service.id}

@@ -37,7 +37,7 @@ const ServiceOne = () => {
                         />
                     </div>
                 </div>
-                <div className="row">
+                <div className="row d-flex justify-content-center">
                     {defaultServices?.map((service, index) => (
                         <ServiceCardOne
                             key={service.id}
